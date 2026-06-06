@@ -16,8 +16,8 @@ export function Hero() {
   return (
     <section className="relative flex min-h-screen items-center justify-center overflow-hidden px-6 pb-24 pt-32 md:px-12">
       <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
-        <SilverSphere className="absolute left-[-10%] top-[20%]" size="42vw" opacity={0.8} delay={0} />
-        <SilverSphere className="absolute right-[-10%] top-[35%]" size="42vw" opacity={0.8} delay={1.2} />
+        <SilverSphere className="absolute left-[-10%] top-[20%]" size="42vw" opacity={0.8}/>
+        <SilverSphere className="absolute right-[-10%] top-[35%]" size="42vw" opacity={0.8} />
       </div>
 
       <div className="relative z-10 mx-auto max-w-7xl text-center">
