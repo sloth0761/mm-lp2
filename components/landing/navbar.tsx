@@ -12,7 +12,7 @@ export function Navbar() {
       className="absolute inset-x-0 top-0 z-20 flex items-center justify-between px-6 py-6 md:px-12"
     >
       <div className="text-sm uppercase tracking-[0.3em] text-foreground/70">
-        Narron
+        The Arth
       </div>
       <Link
         href="#waitlist"

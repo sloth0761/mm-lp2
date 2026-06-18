@@ -18,7 +18,7 @@ export function CTASection() {
       <div className="relative z-10 mx-auto max-w-3xl">
         <Reveal>
           <h2 className="text-gradient-headline font-sans text-5xl font-bold leading-[0.95] tracking-[-0.035em] md:text-7xl">
-            Be one of the first founders audited by Narron.
+            Be one of the first founders audited by The Arth.
           </h2>
         </Reveal>
 
